@@ -15,9 +15,9 @@
 ### :lollipop: Interest
 ![Java Badge](https://img.shields.io/badge/JAVA-★★★★☆-0696D7?style=plastic&logo=Java&logoColor=white)
 ![Spring Badge](https://img.shields.io/badge/Spring-★★★☆☆-0696D7?style=plastic&logo=Spring&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ&#32;IDEA-★★★☆☆-0696D7?style=plastic&logo=IntelliJ&#32;IDEA&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-★★★☆☆-0696D7?style=plastic&logo=GraphQL&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon&#32;AWS-★★★☆☆-0696D7?style=plastic&logo=Amazon&#32;AWS&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ&#32;IDEA-★★☆☆☆-0696D7?style=plastic&logo=IntelliJ&#32;IDEA&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-☆☆☆☆☆-0696D7?style=plastic&logo=GraphQL&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon&#32;AWS-★☆☆☆☆-0696D7?style=plastic&logo=Amazon&#32;AWS&logoColor=white)
 ![Riot Badge](https://img.shields.io/badge/Riot&#32;Games-★★★☆☆-0696D7?style=plastic&logo=Riot&#32;Games&logoColor=white)
 
 - Java
