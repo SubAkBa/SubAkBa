@@ -21,7 +21,7 @@
 ![Riot Badge](https://img.shields.io/badge/Riot&#32;Games-★★★☆☆-0696D7?style=plastic&logo=Riot&#32;Games&logoColor=white)
 
 - Java
-- SpringBoot, JPA, QueryDSL
+- SpringBoot
 - GraphQL
 - AWS
 - PS (Problem Solving)
