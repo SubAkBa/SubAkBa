@@ -30,7 +30,7 @@
 - Container (Docker, Kubernetes)
 - NoSQL (Redis)
 - GraphQL
-- AWS
+- AWS EC2, Route53, RDS
 - PS (Problem Solving)
 
 <br />
