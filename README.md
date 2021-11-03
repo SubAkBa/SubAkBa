@@ -28,9 +28,9 @@
 ![Riot Badge](https://img.shields.io/badge/Riot&#32;Games-★★★☆☆-0696D7?style=plastic&logo=Riot&#32;Games&logoColor=white)
 
 - Java
-- Spring (Spring Boot, Spring Data JPA, Querydsl, Spring Security, Spring Rest Docs)
+- Spring (Spring Boot, Spring Data JPA, Querydsl, Spring Security, Spring Cloud, Spring Batch, Spring Rest Docs)
 - Elastic Stack (Elastic Search, Kibana, LogStash, Beats)
-- Message Queue (Kafka, RabbitMQ)
+- Message Queue (Kafka)
 - Container (Docker, Kubernetes)
 - NoSQL (Redis)
 - AWS EC2, Route53, RDS
