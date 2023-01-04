@@ -20,8 +20,6 @@
 ![Java Badge](https://img.shields.io/badge/JAVA-★★★★☆-0696D7?style=plastic&logo=Java&logoColor=white)
 ![Spring Badge](https://img.shields.io/badge/Spring-★★★★☆-0696D7?style=plastic&logo=Spring&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ&#32;IDEA-★★☆☆☆-0696D7?style=plastic&logo=IntelliJ&#32;IDEA&logoColor=white)
-![Elastic Stack](https://img.shields.io/badge/Elastic&#32;Stack-☆☆☆☆☆-0696D7?style=plastic&logo=Elastic&#32;Stack&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-☆☆☆☆☆-0696D7?style=plastic&logo=Redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-★☆☆☆☆-0696D7?style=plastic&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-★☆☆☆☆-0696D7?style=plastic&logo=Kubernetes&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon&#32;AWS-★☆☆☆☆-0696D7?style=plastic&logo=Amazon&#32;AWS&logoColor=white)
@@ -29,10 +27,8 @@
 
 - Java
 - Spring (Spring Boot, Spring Data JPA, Querydsl, Spring Security, Spring Cloud, Spring Batch, Spring Rest Docs)
-- Elastic Stack (Elastic Search, Kibana, LogStash, Beats)
 - Message Queue (Kafka)
 - Container (Docker, Kubernetes)
-- NoSQL (Redis)
 - AWS EC2, Route53, RDS
 - PS (Problem Solving)
 
