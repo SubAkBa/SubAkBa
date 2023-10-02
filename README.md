@@ -3,6 +3,9 @@
 
 
 [![SubAkBa's github stats](https://github-readme-stats.vercel.app/api?username=SubAkBa&show_icons=true&theme=cobalt)](https://github.com/SubAkBa/github-readme-stats)
+
+
+[![subakba's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=SubAkBa&theme=Raspberry)](https://github.com/JeremyTsaii/leetcode-stats)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonju2286)](https://solved.ac/wonju2286)
 
 
@@ -26,7 +29,7 @@
 ![Riot Badge](https://img.shields.io/badge/Riot&#32;Games-★★★☆☆-0696D7?style=plastic&logo=Riot&#32;Games&logoColor=white)
 
 - Java
-- Spring (Spring Boot, Spring Data JPA, Querydsl, Spring Security, Spring Cloud, Spring Batch, Spring Rest Docs)
+- Spring (Spring Boot, Spring Data JPA, Querydsl, Spring Security, Spring Cloud, Spring Batch, Springdoc-openapi)
 - Message Queue (Kafka)
 - Container (Docker, Kubernetes)
 - AWS EC2, Route53, RDS
