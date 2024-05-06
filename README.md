@@ -6,10 +6,13 @@
 <h3 align="center">:lollipop: Tech & Interest</h3>
 <p align="center"> 
   <img src="https://img.shields.io/badge/java-3776AB.svg?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/kotlin-3776AB.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ&#32;IDEA-0696D7?style=for-the-badge&logo=IntelliJ&#32;IDEA&logoColor=white">
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/jpa-%236DB33F?style=for-the-badge&logo=jpa&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJ&#32;IDEA-0696D7?style=for-the-badge&logo=IntelliJ&#32;IDEA&logoColor=white">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white">
