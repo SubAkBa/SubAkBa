@@ -1,5 +1,7 @@
-[![subakba's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=SubAkBa&theme=Raspberry)](https://github.com/JeremyTsaii/leetcode-stats)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonju2286)](https://solved.ac/wonju2286)
+<p align="center">
+  [![subakba's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=SubAkBa&theme=Raspberry)](https://github.com/JeremyTsaii/leetcode-stats)
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonju2286)](https://solved.ac/wonju2286)
+</p>
 
 <br />
 
