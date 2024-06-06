@@ -22,4 +22,6 @@
     <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">
     <img src="https://img.shields.io/badge/apache%20kafka-grey?style=for-the-badge&logo=apache%20kafka">
   </p>
+  <p><img src="https://skillicons.dev/icons?i=java,kotlin,spring,mysql,nginx" alt="be skills logos" /></p>
+  <p><img src="https://skillicons.dev/icons?i=git,github,postman" alt="ide,tool logos" /></p>
 </div>
