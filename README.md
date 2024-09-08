@@ -8,7 +8,7 @@
   
   <h3 align="center">🍭 Tech & Interest</h3>
   <p align="center"> 
-    <img src="https://img.shields.io/badge/java-3776AB.svg?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/java-3776AB.svg?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/kotlin-3776AB.svg?style=for-the-badge&logo=kotlin&logoColor=white">
     <img src="https://img.shields.io/badge/IntelliJ&#32;IDEA-0696D7?style=for-the-badge&logo=IntelliJ&#32;IDEA&logoColor=white">
   </p>
