@@ -1,24 +1,73 @@
-<div align="center">
-  <h3 align="center">🎯 Algorithm</h3>
-  
-  [![subakba's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=SubAkBa&theme=Raspberry)](https://github.com/JeremyTsaii/leetcode-stats)
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonju2286)](https://solved.ac/wonju2286)
+## 💼 Career
 
-  <br />
-  
-  <h3 align="center">🍭 Tech & Interest</h3>
-  <p align="center"> 
-    <img src="https://img.shields.io/badge/java-3776AB.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img src="https://img.shields.io/badge/kotlin-3776AB.svg?style=for-the-badge&logo=kotlin&logoColor=white">
-    <img src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/springboot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-    <img src="https://img.shields.io/badge/jpa-%236DB33F?style=for-the-badge&logo=jpa&logoColor=white">
-  </p>
-  <p align="center">
-  </p>
-  <p><img src="https://skillicons.dev/icons?i=java,kotlin,spring" alt="be skills logos" /></p>
-  <p><img src="https://skillicons.dev/icons?i=git,github,mysql" alt="ide,tool logos" /></p>
+- **[N Tech Service](https://www.nts-corp.com/) - 2022.03 ~ Present**
+  - DB Object / Computerized Ledger DML Approval / ACG / ACL Management System --- Software Engineer
+  - Real-time Server Metrics Monitoring & Alerting System --- Software Engineer
+- **[i-Scream Edu](https://www.i-screamedu.co.kr/index.do) - 2021.03 ~ 2022.03**
+  - [HiClass](https://www.hiclass.net/), A Communication Service for Teachers, Parents, and Students --- Backend Development
+
+## 🚀 Activities
+
+- **[Prography](https://prography.org/) - 2019.03 - 2021.01**
+  - Lemorning, Customizing Morning Call Store Service --- Backend Development
+  - Only You, Real-time Streaming Face Mosaic API Service --- Backend & Deep Learning Development
+
+## 🎓 Education
+
+- **Kongju National University - 2013.03 - 2019.02**
+  - B.S. in Software Engineering, Department of Computer Engineering
+  - Otdal, Wardrobe Calendar Service --- Backend Development
+  - Awesome Books, Data-driven Book Recommendation Platform --- Backend & Data Analysis
+
+## 🏆 Awards
+
+| Date | Award | Project |
+| --- | --- | --- |
+| 2019 | Special Prize, Sogang University Startup Competition | Only You |
+| 2018 | Bronze Prize, Kongju National University Computer Engineering Academic Festival | Awesome Books |
+
+## 📜 Certifications
+
+| Date | Certification | Organization |
+| --- | --- | --- |
+| 2018.12 | [ADsP (Advanced Data Analytics Semi-Professional)](https://www.dataq.or.kr/www/sub/a_06.do) | Korea Data Agency |
+| 2018.08 | [Engineer Information Processing](https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=1320) | HRD Korea |
+| 2017.12 | [SQLD (SQL Developer)](https://www.dataq.or.kr/www/sub/a_04.do) | Korea Data Agency |
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+| --- | --- |
+| **Backend** | `Java` `Spring Boot` `Spring Batch` `JPA` `Querydsl` `jOOQ` `MyBatis` |
+| **Data** | `MySQL` `Oracle` `Redis` |
+| **Infrastructure** | `Nginx` |
+
+## 🧩 Algorithm
+
+<div>
+  <a href="https://github.com/KnlnKS/leetcode-stats">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://leetcode-stats-six.vercel.app/SubAkBa?theme=dark"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://leetcode-stats-six.vercel.app/SubAkBa?theme=light"
+      />
+      <img
+        src="https://leetcode-stats-six.vercel.app/SubAkBa?theme=light"
+        alt="SubAkBa's LeetCode Stats"
+        height="170"
+      />
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://solved.ac/wonju2286">
+    <img
+      src="https://mazassumnida.wtf/api/v2/generate_badge?boj=wonju2286"
+      alt="Solved.ac Profile"
+      height="170"
+    />
+  </a>
 </div>
