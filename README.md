@@ -38,9 +38,10 @@
 
 | Category | Technologies |
 | --- | --- |
-| **Backend** | `Java` `Spring Boot` `Spring Batch` `JPA` `Querydsl` `jOOQ` `MyBatis` |
+| **Backend** | `Java` `Spring Boot` `Spring Batch` `Spring WebFlux` `JPA` `Querydsl` `jOOQ` `MyBatis` |
+| **Frontend** | `React` `Vue` |
 | **Data** | `MySQL` `Oracle` `Redis` |
-| **Infrastructure** | `Nginx` |
+| **Infrastructure** | `Kubernetes` `Nginx` |
 
 ## 🧩 Algorithm
 
